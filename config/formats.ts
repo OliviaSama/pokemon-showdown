@@ -6,6 +6,9 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 	// APA Gym Challenge
 	///////////////////////////////////////////////////////////////////
 	{
+		section: "APA Gym Challenge"
+	},
+	{
 		name: "[Gen 8] National Dex Singles",
 
 		mod: 'gen8',
@@ -22,7 +25,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		 'Wake-Up Slap', 'Water Sport', 'Wring Out', 'Return'
 		 ],
 	},
-	
+
 	// Sw/Sh Singles
 	///////////////////////////////////////////////////////////////////
 
