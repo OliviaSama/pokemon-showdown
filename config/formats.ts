@@ -22,6 +22,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		 'Wake-Up Slap', 'Water Sport', 'Wring Out', 'Return'
 		 ],
 	},
+	
 	// Sw/Sh Singles
 	///////////////////////////////////////////////////////////////////
 
