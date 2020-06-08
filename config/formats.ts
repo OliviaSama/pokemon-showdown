@@ -21,7 +21,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		 'Sonic Boom', 'Spider Web', 'Spike Cannon', 'Spotlight', 'Steamroller', 'Synchronoise', 'Telekinesis', 'Trump Card', 'Twineedle',
 		 'Wake-Up Slap', 'Water Sport', 'Wring Out', 'Return'
 		 ],
-	}
+	},
 	// Sw/Sh Singles
 	///////////////////////////////////////////////////////////////////
 
