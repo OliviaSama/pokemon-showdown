@@ -6,10 +6,10 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 	// APA Gym Challenge
 	///////////////////////////////////////////////////////////////////
 	{
-		name: "APA Gym Challenge",
+		name: "[Gen 8] National Dex Singles",
 
 		mod: 'gen8',
-		ruleset: ['Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause','Dynamax Clause'],
+		ruleset: ['Obtainable', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause','Dynamax Clause'],
 		banlist: [
 		 'Assist', 'Barrage', 'Barrier', 'Bestow', 'Bide', 'Bone Club', 'Bubble', 'Camouflage', 'Captivate', 'Chip Away',
 		 'Clamp', 'Comet Punch', 'Constrict', 'Dizzy Punch', 'Double Slap', 'Dragon Rage', 'Egg Bomb', 'Embargo', 'Feint Attack',
